@@ -9,7 +9,7 @@
 ## AI Nepatikrintos prielaidos
 
 - CV dalys persidengia, todėl paprastas suporuotas t testas netinka interpretuoti jų kaip nepriklausomų imčių. Patikrinus oficialų statistinio palyginimo pavyzdį [5], pagrindinei išvadai pasirinkta Nadeau–Bengio korekcija. Nekoreguotos p reikšmės pateikiamos tik papildomai.
--LR tikimybės negali būti laikomos kalibruotomis vien dėl modelio pavadinimo. Testo Brier ir tikimybių suma parodė per aukštą balanced LR skalę. Tai ataskaitoje įvardinta kaip neigiamas rezultatas, o ne nutylėta. UCI rinkinio žymės, DOI, metodų bibliografiniai duomenys ir bibliotekos formulės patikrinti oficialiuose šaltiniuose.
+- LR tikimybės negali būti laikomos kalibruotomis vien dėl modelio pavadinimo. Testo Brier ir tikimybių suma parodė per aukštą balanced LR skalę. Tai ataskaitoje įvardinta kaip neigiamas rezultatas, o ne nutylėta. UCI rinkinio žymės, DOI, metodų bibliografiniai duomenys ir bibliotekos formulės patikrinti oficialiuose šaltiniuose.
 
 ## Šaltinių ir rezultatų patikra
 

@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+data/
+tmp/
+models/
+output/
+results/
+kvietimai.csv
+report.py
+report_docx.py
